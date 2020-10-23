@@ -1,5 +1,4 @@
-python network script
-
+```
 #!/usr/bin/python
 #coding=utf-8
 #file : netiostat
@@ -58,3 +57,4 @@ while (count > 0):
     sys.stdout.flush()
 
 print ""
+```
